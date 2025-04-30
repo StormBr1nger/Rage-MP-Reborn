@@ -1,0 +1,19 @@
+{
+    "name" : "Rage-MP-Reborn",
+    "id" : "Rage-MP-Reborn",
+    "version" : "0.01",
+    "game_id" : "victoria3",
+    "supported_game_version" : "*",
+    "short_description" : "MP balanced mod from RK",
+    "tags" : [
+		"Alternative History",
+		"Total Conversion"
+	],
+    "relationships" : [],
+    "game_custom_data" : {
+    	"multiplayer_synchronized" : true,
+	  	"replace_paths" : [
+
+		]
+    }
+  }
